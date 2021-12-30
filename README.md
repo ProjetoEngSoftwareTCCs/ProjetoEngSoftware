@@ -1,10 +1,10 @@
-# ProjetoEngSoftwareJJJ
 # Projeto Engenharia de Software 2021.1
 
 ## Discentes:
 * Gabriel Caminha :trollface:
 * Arthur Falcão :trollface:
 * Rodrigo Pascaretta :trollface:
+* Pedro Calábria :trollface:
 
 ## Sobre o projeto: 
 
