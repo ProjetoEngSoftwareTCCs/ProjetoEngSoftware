@@ -68,7 +68,7 @@ ori --> UC7
 ### Especificações de Casos de Uso
 
 - [UC_01](https://github.com/ProjetoEngSoftwareTCCs/ProjetoEngSoftware/blob/main/Especifica%C3%A7%C3%B5es/reqs_UC01.md) - Realizar Login
-- [UC_02](reqs_UC02.md) - Organizar Orientacao
+- [UC_02](https://github.com/ProjetoEngSoftwareTCCs/ProjetoEngSoftware/blob/main/Especifica%C3%A7%C3%B5es/reqs_UC02.md) - Organizar Orientacao
 - [UC_03](reqs_UC03.md) - Acompanhar Trabalhos
 - [UC_04](reqs_UC04.md) - Avaliar Trabalhos
 - [UC_05](reqs_UC05.md) - Gerar Ata de Banca
