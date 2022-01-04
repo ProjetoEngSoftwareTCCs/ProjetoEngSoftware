@@ -76,3 +76,28 @@ h2{
     border: 1px solid black;
     cursor: pointer;
 }
+
+.enviar{
+    width: 15%;
+    padding: 1em;
+}
+
+.botao_orientacao{
+    padding: 1em 10px;
+    background-color: #294c74;
+    border: none;
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+    margin: 1em;
+    transition: 0.25s;
+    color: #FFFFF9;
+    font-family: 'Darker Grotesque', sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
+
+.botao_orientacao:hover{
+    border: 2px solid black;
+    cursor: pointer;
+}
