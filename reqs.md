@@ -23,11 +23,10 @@
 
 package Login{
     usecase "Realizar Login" as UC1
-    usecase "Login Orientador" as UC2
-    usecase "Login Aluno" as UC3
-    usecase "Login Administrador" as UC4
 }
 package Usuarios{
+    actor Usuario as usu
+    actor Anonimo as anon
     actor Administrador as admin
     actor Aluno as aluno
     actor Orientador as ori
@@ -47,17 +46,17 @@ package Arquivo{
     usecase "Enviar Arquivo" as UC12
     usecase "Receber Arquivo" as UC13
 }
-UC1 ..> UC2 : extends
-UC1 ..> UC3 : extends
-UC1 ..> UC4 : extends
+
+usu <|-- anon
+usu <|-- admin
+usu <|-- aluno
+usu <|-- ori
+UC1 <- anon
 admin --> UC8
 admin --> UC9
 admin --> UC10
 admin --> UC11
-admin -> UC4
-aluno -> UC3
 UC12 <-- aluno
-ori -> UC2
 UC13 <-- ori
 ori --> UC5
 ori --> UC6
