@@ -31,7 +31,8 @@ main{
     text-align: center;
     margin: 20px auto;
     background-color: white;
-    height: 90%;
+    min-height: 100%;
+    height: auto;
 }
 
 h2{
@@ -58,12 +59,17 @@ h2{
     padding: 10px 0;
 }
 
+.opcoes_orientador{
+    margin: 5em 0 0 0;
+}
+
 .botao{
     padding: 1em 10px;
     background-color: #294c74;
     border: none;
     border-radius: 10px;
-    width: 15%;
+    min-width: 15%;
+    width: auto;
     margin: 0.5em;
     transition: 0.25s;
     color: #FFFFF9;
@@ -100,4 +106,27 @@ h2{
 .botao_orientacao:hover{
     border: 2px solid black;
     cursor: pointer;
+}
+
+.container{
+	width: 60%;
+	height: 100%;
+	margin: 2em auto;
+}
+
+#filtrar-tabela{
+    margin: 0.5em;
+}
+
+table{
+	width: 100%;
+	margin-bottom : .5em;
+    table-layout: fixed;
+}
+
+td, th {
+	padding: .7em;
+	margin: 0;
+	border: 1px solid #ccc;
+	text-align: center;
 }
