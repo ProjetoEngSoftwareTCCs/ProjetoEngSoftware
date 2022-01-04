@@ -10,7 +10,7 @@
 - [RF04](reqs_RF04.md) - Avaliar Trabalhos
 - [RF05](reqs_RF05.md) - Gerar Ata de Banca
 - [RF06](reqs_RF06.md) - Gerar Certificado dos Professores
-- [RF07](reqs_RF07.md) -Gerar Folhas de Aprovação
+- [RF07](reqs_RF07.md) - Gerar Folhas de Aprovação
 - [RF08](reqs_RF08.md) - Gerar cronograma das bancas
 - [RF09](reqs_RF09.md) - Enviar Arquivo
 - [RF10](reqs_RF10.md) - Receber Arquivo
@@ -67,19 +67,19 @@ ori --> UC7
 
 ### Especificações de Casos de Uso
 
-- [UC_01](reqs_UC01.md)
-- [UC_02](reqs_UC02.md)
-- [UC_03](reqs_UC03.md)
-- [UC_04](reqs_UC04.md)
-- [UC_05](reqs_UC05.md)
-- [UC_06](reqs_UC06.md)
-- [UC_07](reqs_UC07.md)
-- [UC_08](reqs_UC08.md)
-- [UC_09](reqs_UC09.md)
-- [UC_010](reqs_UC010.md)
-- [UC_011](reqs_UC011.md)
-- [UC_012](reqs_UC012.md)
-- [UC_013](reqs_UC013.md)
+- [UC_01](reqs_UC01.md) - Realizar Login
+- [UC_02](reqs_UC02.md) - Login Orientador
+- [UC_03](reqs_UC03.md) - Login Aluno
+- [UC_04](reqs_UC04.md) - Login Administrador
+- [UC_05](reqs_UC05.md) - Organizar Orientacao
+- [UC_06](reqs_UC06.md) - Acompanhar Trabalhos
+- [UC_07](reqs_UC07.md) - Avaliar Trabalhos
+- [UC_08](reqs_UC08.md) - Gerar Ata de Banca
+- [UC_09](reqs_UC09.md) - Gerar Certificado dos Professores
+- [UC_010](reqs_UC010.md) - Gerar Folhas de Aprovação
+- [UC_011](reqs_UC011.md) - Gerar cronograma das bancas
+- [UC_012](reqs_UC012.md) - Enviar Arquivo
+- [UC_013](reqs_UC013.md) - Receber Arquivo
 
 
 ## Requisitos não-funcionais
