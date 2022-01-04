@@ -5,18 +5,15 @@
 ### Lista de Requisitos Funcionais
 
 - RF01 - Realizar Login
-- RF02 - Login Orientador
-- RF03 - Login Aluno
-- RF04 - Login Administrador
-- RF05 - Organizar Orientacao
-- RF06 - Acompanhar Trabalhos
-- RF07 - Avaliar Trabalhos
-- RF08 - Gerar Ata de Banca
-- RF09 - Gerar Certificado dos Professores
-- RF010 -Gerar Folhas de Aprovação
-- RF011 - Gerar cronograma das bancas
-- RF012 - Enviar Arquivo
-- RF013 - Receber Arquivo
+- RF02 - Organizar Orientacao
+- RF03 - Acompanhar Trabalhos
+- RF04 - Avaliar Trabalhos
+- RF05 - Gerar Ata de Banca
+- RF06 - Gerar Certificado dos Professores
+- RF07 -Gerar Folhas de Aprovação
+- RF08 - Gerar cronograma das bancas
+- RF09 - Enviar Arquivo
+- RF10 - Receber Arquivo
 
 
 ### Diagrama de Casos de Uso
