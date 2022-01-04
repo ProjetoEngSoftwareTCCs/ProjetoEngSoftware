@@ -89,11 +89,11 @@ ori --> UC7
 
 ### Usabilidade
 
-... Segundo ... Nilsen ...
+Segundo Jakob Nielsen a “usabilidade é um atributo de qualidade que avalia quão fácil uma interface é de usar”, ou  “a medida de qualidade da experiência de um usuário ao interagir com um produto ou um sistema”. Em outras palavras a usabilidade está associada à utilização de métodos que contribuam com a facilidade de uso durante o processo de criação do produto.
 
 ## Referências
 
-[1] Nilsen ...
+[1] NILSEN, Jakob. Usabillity Engineering. San Francisco (California), Morgan Kauffmann, 1993. 362p
 
 [2] Ian Somerville ...
 
