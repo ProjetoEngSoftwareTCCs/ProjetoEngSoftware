@@ -19,7 +19,7 @@
 ### Diagrama de Casos de Uso
 
 ```plantuml
-@startuml Login
+@startuml AcompanhamentoTcc
 
 package Login{
     usecase "Realizar Login" as UC1
