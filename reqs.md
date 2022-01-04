@@ -68,21 +68,21 @@ ori --> UC7
 @enduml
 ```
 
-### Especificicações de Casos de Uso
+### Especificações de Casos de Uso
 
 - [UC_01](reqs_UC01.md)
 - [UC_02](reqs_UC02.md)
-- [UC_03](reqs_UC01.md)
-- [UC_04](reqs_UC01.md)
-- [UC_05](reqs_UC01.md)
-- [UC_06](reqs_UC01.md)
-- [UC_07](reqs_UC01.md)
-- [UC_08](reqs_UC01.md)
-- [UC_09](reqs_UC01.md)
-- [UC_010](reqs_UC01.md)
-- [UC_011](reqs_UC01.md)
-- [UC_012](reqs_UC01.md)
-- [UC_013](reqs_UC01.md)
+- [UC_03](reqs_UC03.md)
+- [UC_04](reqs_UC04.md)
+- [UC_05](reqs_UC05.md)
+- [UC_06](reqs_UC06.md)
+- [UC_07](reqs_UC07.md)
+- [UC_08](reqs_UC08.md)
+- [UC_09](reqs_UC09.md)
+- [UC_010](reqs_UC010.md)
+- [UC_011](reqs_UC011.md)
+- [UC_012](reqs_UC012.md)
+- [UC_013](reqs_UC013.md)
 
 
 ## Requisitos não-funcionais
