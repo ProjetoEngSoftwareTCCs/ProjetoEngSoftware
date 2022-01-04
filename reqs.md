@@ -90,10 +90,8 @@ Segundo Jakob Nielsen a “usabilidade é um atributo de qualidade que avalia qu
 
 ## Referências
 
-[1] NILSEN, Jakob. Usabillity Engineering. San Francisco (California), Morgan Kauffmann, 1993. 362p
+* [NILSEN, Jakob. Usabillity Engineering. San Francisco (California), Morgan Kauffmann, 1993. 362p.](https://www.amazon.com.br/Usability-Engineering-Jakob-Nielsen/dp/0125184069/ref=sr_1_1?keywords=usability+engineering&qid=1641263417&sprefix=usab%2Caps%2C162&sr=8-1&ufe=app_do%3Aamzn1.fos.4bddec23-2dcf-4403-8597-e1a02442043d)
 
-[2] Ian Somerville ...
+* [SOMMERVILLE, Ian. Engenharia de Software. Pearson University, 2019. 768p.](https://www.amazon.com.br/Engenharia-Software-Ian-Sommerville/dp/8543024978/ref=sr_1_1?keywords=ian+sommerville&qid=1641263109&sprefix=ian+sommer%2Caps%2C236&sr=8-1&ufe=app_do%3Aamzn1.fos.db68964d-7c0e-4bb2-a95c-e5cb9e32eb12)  
 
-[3] Angular ...
-
-[4] PlantUML ...
+* [PlantUML](https://plantuml.com/use-case-diagram)
