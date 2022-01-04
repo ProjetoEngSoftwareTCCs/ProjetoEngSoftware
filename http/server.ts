@@ -12,4 +12,4 @@ http.createServer((req, res) => {
             }
         )
     }
-}).listen(5000, () => console.log('Server rodando'))
+}).listen(3000, () => console.log('Server rodando'))
