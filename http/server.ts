@@ -1,15 +1,12 @@
-const http = require('http')
-const fs = require('fs')
 const path = require('path')
+const express = require('express')
+const app = express()
 
-http.createServer((req, res) => {
-    if(req.url === '/') {
-        fs.readFile(
-            path.join(__dirname, 'public', 'index.html'), (err, content) => {
-                if(err) throw err
+app.use(express.static(__dirname + '/public'))
 
-                res.end(content)
-            }
-        )
-    }
-}).listen(3000, () => console.log('Server rodando'))
+app.get('/', function(req, res) {
+    res.sendFile(path.join(__dirname + '/index.html'))
+})
+
+app.listen(3000)
+console.log('Rodando')
