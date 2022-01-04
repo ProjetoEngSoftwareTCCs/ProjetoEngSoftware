@@ -19,15 +19,14 @@
 ### Diagrama de Casos de Uso
 
 ```plantuml
-@startuml Login
+@startuml AcompanhamentoTcc
 
 package Login{
     usecase "Realizar Login" as UC1
-    usecase "Login Orientador" as UC2
-    usecase "Login Aluno" as UC3
-    usecase "Login Administrador" as UC4
 }
 package Usuarios{
+    actor Usuario as usu
+    actor Anonimo as anon
     actor Administrador as admin
     actor Aluno as aluno
     actor Orientador as ori
@@ -47,17 +46,17 @@ package Arquivo{
     usecase "Enviar Arquivo" as UC12
     usecase "Receber Arquivo" as UC13
 }
-UC1 ..> UC2 : extends
-UC1 ..> UC3 : extends
-UC1 ..> UC4 : extends
+
+usu <|-- anon
+usu <|-- admin
+usu <|-- aluno
+usu <|-- ori
+UC1 <- anon
 admin --> UC8
 admin --> UC9
 admin --> UC10
 admin --> UC11
-admin -> UC4
-aluno -> UC3
 UC12 <-- aluno
-ori -> UC2
 UC13 <-- ori
 ori --> UC5
 ori --> UC6
@@ -68,15 +67,15 @@ ori --> UC7
 ### Especificações de Casos de Uso
 
 - [UC_01](https://github.com/ProjetoEngSoftwareTCCs/ProjetoEngSoftware/blob/main/Especifica%C3%A7%C3%B5es/reqs_UC01.md) - Realizar Login
-- [UC_02](reqs_UC02.md) - Organizar Orientacao
-- [UC_03](reqs_UC03.md) - Acompanhar Trabalhos
-- [UC_04](reqs_UC04.md) - Avaliar Trabalhos
-- [UC_05](reqs_UC05.md) - Gerar Ata de Banca
-- [UC_06](reqs_UC06.md) - Gerar Certificado dos Professores
-- [UC_07](reqs_UC07.md) - Gerar Folhas de Aprovação
-- [UC_08](reqs_UC08.md) - Gerar cronograma das bancas
-- [UC_09](reqs_UC09.md) - Enviar Arquivo
-- [UC_10](reqs_UC10.md) - Receber Arquivo
+- [UC_02](https://github.com/ProjetoEngSoftwareTCCs/ProjetoEngSoftware/blob/main/Especifica%C3%A7%C3%B5es/reqs_UC02.md) - Organizar Orientacao
+- [UC_03](https://github.com/ProjetoEngSoftwareTCCs/ProjetoEngSoftware/blob/main/Especifica%C3%A7%C3%B5es/reqs_UC03.md) - Acompanhar Trabalhos
+- [UC_04](https://github.com/ProjetoEngSoftwareTCCs/ProjetoEngSoftware/blob/main/Especifica%C3%A7%C3%B5es/reqs_UC04.md) - Avaliar Trabalhos
+- [UC_05](https://github.com/ProjetoEngSoftwareTCCs/ProjetoEngSoftware/blob/main/Especifica%C3%A7%C3%B5es/reqs_UC05.md) - Gerar Ata de Banca
+- [UC_06](https://github.com/ProjetoEngSoftwareTCCs/ProjetoEngSoftware/blob/main/Especifica%C3%A7%C3%B5es/reqs_UC06.md) - Gerar Certificado dos Professores
+- [UC_07](https://github.com/ProjetoEngSoftwareTCCs/ProjetoEngSoftware/blob/main/Especifica%C3%A7%C3%B5es/reqs_UC07.md) - Gerar Folhas de Aprovação
+- [UC_08](https://github.com/ProjetoEngSoftwareTCCs/ProjetoEngSoftware/blob/main/Especifica%C3%A7%C3%B5es/reqs_UC08.md) - Gerar cronograma das bancas
+- [UC_09](https://github.com/ProjetoEngSoftwareTCCs/ProjetoEngSoftware/blob/main/Especifica%C3%A7%C3%B5es/reqs_UC09.md) - Enviar Arquivo
+- [UC_10](https://github.com/ProjetoEngSoftwareTCCs/ProjetoEngSoftware/blob/main/Especifica%C3%A7%C3%B5es/reqs_UC10.md) - Receber Arquivo
 
 
 ## Requisitos não-funcionais
