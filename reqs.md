@@ -4,7 +4,7 @@
 
 ### Lista de Requisitos Funcionais
 
-- [RF01](https://github.com/ProjetoEngSoftwareTCCs/ProjetoEngSoftware/blob/main/Especifica%C3%A7%C3%B5es/reqs_UC01.md) - Realizar Login
+- [RF01](reqs_RF01.md) - Realizar Login
 - [RF02](reqs_RF02.md) - Organizar Orientação
 - [RF03](reqs_RF03.md) - Acompanhar Trabalhos
 - [RF04](reqs_RF04.md) - Avaliar Trabalhos
@@ -67,7 +67,7 @@ ori --> UC7
 
 ### Especificações de Casos de Uso
 
-- [UC_01](reqs_UC01.md) - Realizar Login
+- [UC_01](https://github.com/ProjetoEngSoftwareTCCs/ProjetoEngSoftware/blob/main/Especifica%C3%A7%C3%B5es/reqs_UC01.md) - Realizar Login
 - [UC_02](reqs_UC02.md) - Organizar Orientacao
 - [UC_03](reqs_UC03.md) - Acompanhar Trabalhos
 - [UC_04](reqs_UC04.md) - Avaliar Trabalhos
