@@ -1,12 +1,12 @@
 ## UC08 -  Gerar cronograma das bancas 
 
-### Resumo: O Adminstrador insere as datas e horários para a entrega de arquivos pelos orientadores  
+### Resumo: O Administrador insere as datas e horários para a entrega de arquivos pelos orientadores  
 
 Ator(es): Adminstrador
 
-Pré-condição: Estar logado como um adminstrador.
+Pré-condição: Estar logado como um administrador.
 
-Pós-condição: Uma cronograma será gerado para os orientadores e para o adminstrador.
+Pós-condição: Uma cronograma será gerado para os orientadores e para o administrador.
 
 Fluxo principal:
 
