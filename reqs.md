@@ -80,9 +80,12 @@ ori --> UC7
 
 ## Requisitos não-funcionais
 
-### Usabilidade
+Requisitos não funcionais são os requisitos relacionados ao uso da aplicação em termos de desempenho, usabilidade, confiabilidade, segurança, disponibilidade, manutenção e tecnologias envolvidas.
 
-Segundo Jakob Nielsen a “usabilidade é um atributo de qualidade que avalia quão fácil uma interface é de usar”, ou  “a medida de qualidade da experiência de um usuário ao interagir com um produto ou um sistema”. Em outras palavras a usabilidade está associada à utilização de métodos que contribuam com a facilidade de uso durante o processo de criação do produto.
+- [NF01] - **Confiabilidade dos Resultados** -  As operações, os resultados e os dados gerados pelo sistema precisam estar de acordo com o esperado. Não deve-se obter informações dúbias ou incompletas. Uma ação deve sempre estar relacionada a algum usuário do sistema, de forma que o autor possa ser identificado. O sistema não deve gerar resultados inconclusivos.
+
+- [NF02] - **Segurança das Operações** - Ações do sistema que possam visualizar, editar, inserir ou excluir informações só podem ser
+realizadas pelos atores que possuem tais atribuições. A interface de comunicação com outros sistemas só deve permitir a troca de informações caso seja possível confirmar a procedência dos dados.
 
 ## Referências
 
