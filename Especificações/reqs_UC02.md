@@ -1,4 +1,4 @@
-## UC2 - Organizar Orientacao - INCOMPLETO
+## UC02 - Organizar Orientacao - INCOMPLETO
 
 ### Resumo: Orientador define melhor organizar o trabalho e munir o aluno das orientações necessárias e importantes.
 
