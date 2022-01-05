@@ -91,3 +91,6 @@ Segundo Jakob Nielsen a “usabilidade é um atributo de qualidade que avalia qu
 * [SOMMERVILLE, Ian. Engenharia de Software. Pearson University, 2019. 768p.](https://www.amazon.com.br/Engenharia-Software-Ian-Sommerville/dp/8543024978/ref=sr_1_1?keywords=ian+sommerville&qid=1641263109&sprefix=ian+sommer%2Caps%2C236&sr=8-1&ufe=app_do%3Aamzn1.fos.db68964d-7c0e-4bb2-a95c-e5cb9e32eb12)  
 
 * [PlantUML](https://plantuml.com/use-case-diagram)
+
+* [TypeScript](https://www.typescriptlang.org/)
+
