@@ -4,16 +4,16 @@
 
 ### Lista de Requisitos Funcionais
 
-- [RF01](reqs_RF01.md) - Realizar Login
-- [RF02](reqs_RF02.md) - Organizar Orientação
-- [RF03](reqs_RF03.md) - Acompanhar Trabalhos
-- [RF04](reqs_RF04.md) - Avaliar Trabalhos
-- [RF05](reqs_RF05.md) - Gerar Ata de Banca
-- [RF06](reqs_RF06.md) - Gerar Certificado dos Professores
-- [RF07](reqs_RF07.md) - Gerar Folhas de Aprovação
-- [RF08](reqs_RF08.md) - Gerar Cronograma das Bancas
-- [RF09](reqs_RF09.md) - Enviar Arquivo
-- [RF10](reqs_RF10.md) - Receber Arquivo
+- RF01 - Realizar Login
+- RF02 - Organizar Orientação
+- RF03 - Acompanhar Trabalhos
+- RF04 - Avaliar Trabalhos
+- RF05 - Gerar Ata de Banca
+- RF06 - Gerar Certificado dos Professores
+- RF07 - Gerar Folhas de Aprovação
+- RF08 - Gerar Cronograma das Bancas
+- RF09 - Enviar Arquivo
+- RF10 - Receber Arquivo
 
 
 ### Diagrama de Casos de Uso
