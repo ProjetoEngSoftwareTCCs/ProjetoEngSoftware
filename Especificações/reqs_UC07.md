@@ -12,8 +12,8 @@ Pós-condição: Um documento será gerado e enviado para impressão.
 Fluxo principal:
 
 - [1] Admistrador insere os nomes dos orientadores, do aluno e o tema do TCC.
-- [3] Adminstrador confirma que o arquivo está finalizado.
-- [4] O arquivo é finalizado e enviado para ser impresso.
+- [2] Adminstrador confirma que o arquivo está finalizado.
+- [3] O arquivo é finalizado e enviado para ser impresso.
 
 Fluxo Alternativo:
 
