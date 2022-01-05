@@ -1,4 +1,4 @@
-## UC3 - Acompanhar trabalhos
+## UC03 - Acompanhar trabalhos
 
 ### Resumo: Usuário consulta a lista de todos os TCCs já realizados.
 
