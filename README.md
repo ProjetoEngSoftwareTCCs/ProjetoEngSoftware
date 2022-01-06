@@ -13,9 +13,8 @@ Projeto desenvolvido com o entuito de prototipar e especificar um sistema de aco
 ## Roadmap:
 
 - [x] Criar reposítório GitPod
-- [x] Descobrir como abrir o servidor por lá.
-- [x] Começar a desenvolver o front-end da aplicação.
+- [x] Começar a desenvolver o front-end e back-end da aplicação.
 - [x] Realizar implementação do Diagrama de Casos de Usos utilizando PlantUML
-- [ ] Concluir especificações de Casos de Uso
+- [x] Concluir especificações de Casos de Uso
 
 
