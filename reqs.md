@@ -69,12 +69,12 @@ ori --> UC7
 - [UC_01](https://github.com/ProjetoEngSoftwareTCCs/ProjetoEngSoftware/blob/main/Especifica%C3%A7%C3%B5es/reqs_UC01.md) - Realizar Login
 - [UC_02](https://github.com/ProjetoEngSoftwareTCCs/ProjetoEngSoftware/blob/main/Especifica%C3%A7%C3%B5es/reqs_UC02.md) - Organizar Orientacao
 - [UC_03](https://github.com/ProjetoEngSoftwareTCCs/ProjetoEngSoftware/blob/main/Especifica%C3%A7%C3%B5es/reqs_UC03.md) - Acompanhar Trabalhos
-- [UC_04](https://github.com/ProjetoEngSoftwareTCCs/ProjetoEngSoftware/blob/main/Especifica%C3%A7%C3%B5es/reqs_UC05.md) - Gerar Ata de Banca
-- [UC_05](https://github.com/ProjetoEngSoftwareTCCs/ProjetoEngSoftware/blob/main/Especifica%C3%A7%C3%B5es/reqs_UC06.md) - Gerar Certificado dos Professores
-- [UC_06](https://github.com/ProjetoEngSoftwareTCCs/ProjetoEngSoftware/blob/main/Especifica%C3%A7%C3%B5es/reqs_UC07.md) - Gerar Folhas de Aprovação
-- [UC_07](https://github.com/ProjetoEngSoftwareTCCs/ProjetoEngSoftware/blob/main/Especifica%C3%A7%C3%B5es/reqs_UC08.md) - Gerar cronograma das bancas
-- [UC_08](https://github.com/ProjetoEngSoftwareTCCs/ProjetoEngSoftware/blob/main/Especifica%C3%A7%C3%B5es/reqs_UC09.md) - Enviar Arquivo
-- [UC_09](https://github.com/ProjetoEngSoftwareTCCs/ProjetoEngSoftware/blob/main/Especifica%C3%A7%C3%B5es/reqs_UC10.md) - Receber Arquivo
+- [UC_04](https://github.com/ProjetoEngSoftwareTCCs/ProjetoEngSoftware/blob/main/Especifica%C3%A7%C3%B5es/reqs_UC04.md) - Gerar Ata de Banca
+- [UC_05](https://github.com/ProjetoEngSoftwareTCCs/ProjetoEngSoftware/blob/main/Especifica%C3%A7%C3%B5es/reqs_UC05.md) - Gerar Certificado dos Professores
+- [UC_06](https://github.com/ProjetoEngSoftwareTCCs/ProjetoEngSoftware/blob/main/Especifica%C3%A7%C3%B5es/reqs_UC06.md) - Gerar Folhas de Aprovação
+- [UC_07](https://github.com/ProjetoEngSoftwareTCCs/ProjetoEngSoftware/blob/main/Especifica%C3%A7%C3%B5es/reqs_UC07.md) - Gerar cronograma das bancas
+- [UC_08](https://github.com/ProjetoEngSoftwareTCCs/ProjetoEngSoftware/blob/main/Especifica%C3%A7%C3%B5es/reqs_UC08.md) - Enviar Arquivo
+- [UC_09](https://github.com/ProjetoEngSoftwareTCCs/ProjetoEngSoftware/blob/main/Especifica%C3%A7%C3%B5es/reqs_UC09.md) - Receber Arquivo
 
 
 ## Requisitos não-funcionais
