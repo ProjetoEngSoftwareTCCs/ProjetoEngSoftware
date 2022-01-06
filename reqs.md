@@ -7,13 +7,12 @@
 - RF01 - Realizar Login
 - RF02 - Organizar Orientação
 - RF03 - Acompanhar Trabalhos
-- RF04 - Avaliar Trabalhos
-- RF05 - Gerar Ata de Banca
-- RF06 - Gerar Certificado dos Professores
-- RF07 - Gerar Folhas de Aprovação
-- RF08 - Gerar Cronograma das Bancas
-- RF09 - Enviar Arquivo
-- RF10 - Receber Arquivo
+- RF04 - Gerar Ata de Banca
+- RF05 - Gerar Certificado dos Professores
+- RF06 - Gerar Folhas de Aprovação
+- RF07 - Gerar Cronograma das Bancas
+- RF08 - Enviar Arquivo
+- RF09 - Receber Arquivo
 
 
 ### Diagrama de Casos de Uso
