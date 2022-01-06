@@ -12,7 +12,7 @@
 - RF06 - Gerar Folhas de Aprovação
 - RF07 - Gerar Cronograma das Bancas
 - RF08 - Encaminhar Arquivos
-- RF09 - Receber Arquivo
+- RF09 - Ver Arquivo
 
 
 ### Diagrama de Casos de Uso
