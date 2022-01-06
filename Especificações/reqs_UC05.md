@@ -4,7 +4,7 @@
 
 Ator(es): Administrador
 
-Pré-condição: Estar logado como um administrador.
+Pré-condição: Usuário estar logado como um administrador e existir ao menos um trabalho finalizado a receber certificado.
 
 Pós-condição: O arquivo do certificado é gerado.
 
@@ -17,4 +17,4 @@ Fluxo principal:
 Fluxo Alternativo:
 
 Fluxo de exceção: 
-
+- [2a] Lista vazia - Sistema exibe mensagem avisando que a lista está vazia.
