@@ -25,15 +25,14 @@ package Login{
 }
 package Usuarios{
     actor Usuario as usu
-    actor Anonimo as anon
     actor Administrador as admin
     actor Aluno as aluno
     actor Orientador as ori
 }
+actor Anonimo as anon
 package Orientacao{ 
     usecase "Organizar Orientacao" as UC5
     usecase "Acompanhar Trabalhos" as UC6
-    usecase "Avaliar Trabalhos" as UC7
 }
 package Documentacao{
     usecase "Gerar Ata de Banca" as UC8
@@ -43,10 +42,11 @@ package Documentacao{
 }
 package Arquivo{
     usecase "Encaminhar Arquivos" as UC12
-    usecase "Receber Arquivo" as UC13
+    usecase "Ver Arquivo" as UC13
 }
 
-usu <|-- anon
+actor Escolaridade as esco
+
 usu <|-- admin
 usu <|-- aluno
 usu <|-- ori
@@ -58,8 +58,11 @@ admin --> UC11
 UC12 <-- aluno
 UC13 <-- ori
 ori --> UC5
-ori --> UC7
+ori <-- UC12
 usu --> UC6
+esco <-- UC10
+aluno <-- UC5
+ori <-- UC11
 @enduml
 ```
 
