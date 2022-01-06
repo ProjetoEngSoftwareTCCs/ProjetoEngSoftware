@@ -13,6 +13,7 @@ Fluxo principal:
 - [1] O administrador clica no botão "Gerar certificados".
 - [2] O sistema exibe uma lista dos trabalhos finalizados que ainda não tiveram certificado gerado.
 - [3] O administrador seleciona o trabalho. 
+- [4] O certificado é gerado ratificando a participação do orientador no trabalho.
 
 Fluxo Alternativo:
 
