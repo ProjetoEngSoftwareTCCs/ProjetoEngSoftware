@@ -16,5 +16,8 @@ Projeto desenvolvido com o entuito de prototipar e especificar um sistema de aco
 - [x] Começar a desenvolver o front-end e back-end da aplicação.
 - [x] Realizar implementação do Diagrama de Casos de Usos utilizando PlantUML
 - [x] Concluir especificações de Casos de Uso
+- [x] Concluir especificações de Requisitos Não Funcionais
+- [ ] Realizar a entrega no dia e hora estipulado.
+
 
 
