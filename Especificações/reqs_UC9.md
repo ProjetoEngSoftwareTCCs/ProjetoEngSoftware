@@ -1,5 +1,5 @@
 
-## UC10 - Receber arquivo
+## UC9 - Receber arquivo
 
 ### Resumo: Orientador recebe arquivos enviados por aluno.
 
