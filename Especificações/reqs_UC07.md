@@ -2,7 +2,7 @@
 
 ### Resumo: O Administrador insere as datas e horários para a entrega de arquivos pelos orientadores  
 
-Ator(es): Adminstrador
+Ator(es): Administrador
 
 Pré-condição: Estar logado como um administrador.
 
@@ -10,8 +10,8 @@ Pós-condição: Uma cronograma será gerado para os orientadores e para o admin
 
 Fluxo principal:
 
-- [1] Admistrador insere as datas e horarios.
-- [2] Adminstrador confirma que o cronograma está finalizado.
+- [1] Administrador insere as datas e horarios.
+- [2] Administrador confirma que o cronograma está finalizado.
 - [3] O cronograma é finalizado e enviado para os orientadores.
 
 Fluxo Alternativo:

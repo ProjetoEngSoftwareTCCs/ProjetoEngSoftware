@@ -11,7 +11,7 @@
 - RF05 - Gerar Certificado dos Professores
 - RF06 - Gerar Folhas de Aprovação
 - RF07 - Gerar Cronograma das Bancas
-- RF08 - Enviar Arquivo
+- RF08 - Encaminhar Arquivos
 - RF09 - Receber Arquivo
 
 
@@ -42,7 +42,7 @@ package Documentacao{
     usecase "Gerar cronograma das bancas" as UC11
 }
 package Arquivo{
-    usecase "Enviar Arquivo" as UC12
+    usecase "Encaminhar Arquivos" as UC12
     usecase "Receber Arquivo" as UC13
 }
 
@@ -72,7 +72,7 @@ usu --> UC6
 - [UC_05](https://github.com/ProjetoEngSoftwareTCCs/ProjetoEngSoftware/blob/main/Especifica%C3%A7%C3%B5es/reqs_UC05.md) - Gerar Certificado dos Professores
 - [UC_06](https://github.com/ProjetoEngSoftwareTCCs/ProjetoEngSoftware/blob/main/Especifica%C3%A7%C3%B5es/reqs_UC06.md) - Gerar Folhas de Aprovação
 - [UC_07](https://github.com/ProjetoEngSoftwareTCCs/ProjetoEngSoftware/blob/main/Especifica%C3%A7%C3%B5es/reqs_UC07.md) - Gerar cronograma das bancas
-- [UC_08](https://github.com/ProjetoEngSoftwareTCCs/ProjetoEngSoftware/blob/main/Especifica%C3%A7%C3%B5es/reqs_UC08.md) - Enviar Arquivo
+- [UC_08](https://github.com/ProjetoEngSoftwareTCCs/ProjetoEngSoftware/blob/main/Especifica%C3%A7%C3%B5es/reqs_UC08.md) - Encaminhar Arquivos
 - [UC_09](https://github.com/ProjetoEngSoftwareTCCs/ProjetoEngSoftware/blob/main/Especifica%C3%A7%C3%B5es/reqs_UC09.md) - Receber Arquivo
 
 
