@@ -1,6 +1,6 @@
 ## UC04 - Gerar Ata de banca
 
-Resumo: Administrador irá gerar a ata de banca a ser assinada pelo aluno e pelos integrantes da banca examinadora.
+### Resumo: Administrador irá gerar a ata de banca a ser assinada pelo aluno e pelos integrantes da banca examinadora.
 
 Ator(es): Administrador
 
