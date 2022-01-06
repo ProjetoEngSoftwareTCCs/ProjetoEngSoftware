@@ -19,5 +19,21 @@ Projeto desenvolvido com o entuito de prototipar e especificar um sistema de aco
 - [x] Concluir especificações de Requisitos Não Funcionais
 - [ ] Realizar a entrega no dia e hora estipulado.
 
+## Rodar projeto no GitPod:
+
+- [1] Utilizar a extensão do gitpod em algum navegador chromium based (Opera, Chrome, Chromium (linux) e etc)
+- [2] Clicar no ícone "Gitpod" na página inicial do Github.
+
+![Screenshot](https://github.com/ProjetoEngSoftwareTCCs/ProjetoEngSoftware/blob/main/Especifica%C3%A7%C3%B5es/Screenshot.jpg)
+
+- [3] Digitar a seguinte linha de comando no terminal:
+```sh
+   npm install @types/node --save-dev
+   ```
+- [4] Entrar no diretório http e depois rodar o servidor:
+```sh
+   cd http
+   node server.ts 
+   ```
 
 
