@@ -20,7 +20,7 @@ Fluxos alternativos:
 
 Fluxos de exceção:
 - [1a] Falha no acesso - Sistema exibirá a mensagem que apenas Administradores podem acessar a área de gerar ata de banca.
-- [2a] Indisponibilidade de data - O Sistema exibirá mensagem de data indisponível, caso seja selecionada uma data sem vagas.
+- [2a] Indisponibilidade de data e/ou hora - O Sistema exibirá mensagem de data indisponível, caso seja selecionada uma data e/ou hora sem vagas.
 -  * [2a.1] Data e hora inexistentes - O Sistema exibirá mensagem de erro caso seja selecionada uma data e/ou hora inexistentes.
 - [3a] Campos vazios - Sistema exibe mensagem informando que pelo menos um dos campos estão vazios. 
 
