@@ -18,4 +18,4 @@ Fluxo principal:
 Fluxo Alternativo:
 
 Fluxo de exceção: 
-- [2a]. Um campo vazio - Sistema exibe mensagem para preencher todos os campos.
+- [2a]. Um campo vazio - Sistema exibe mensagem para preencher todos os campos com ao menos um nome de aluno, tema e de um orientador.
