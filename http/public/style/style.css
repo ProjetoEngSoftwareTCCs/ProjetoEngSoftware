@@ -134,9 +134,22 @@ table{
     table-layout: fixed;
 }
 
+.tabela_organizar_orientacao{
+    width: 70%;
+    margin: 2em auto;
+}
+
 td, th {
 	padding: .7em;
 	margin: 0;
 	border: 1px solid #ccc;
 	text-align: center;
+}
+
+.secao_enviar{
+    margin: 100px 190px;
+    width: 70%;
+    height: 20%;
+    border: solid black;
+    border-width: 1px;
 }
