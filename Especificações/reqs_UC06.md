@@ -1,5 +1,5 @@
 
-## UC07 -  Gerar Folhas de Aprovação
+## UC06 -  Gerar Folhas de Aprovação
 
 ### Resumo: O Administrador insere os nomes do aluno, dos Orientadores e o tema do TCC do aluno  
 
