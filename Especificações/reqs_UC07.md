@@ -1,4 +1,4 @@
-## UC08 -  Gerar cronograma das bancas 
+## UC07 -  Gerar cronograma das bancas 
 
 ### Resumo: O Administrador insere as datas e horários para a entrega de arquivos pelos orientadores  
 
