@@ -15,13 +15,18 @@
             <h2 class="titulo-principal">Programa de acompanhamento de TCC</h2>
             <h2>Login</h2>
 
-            <form class="login" action="orientador.html">
-                <label for="email">Email: </label>
-                <input type="email" id="email" class="input-padrao" required placeholder="seuemail@dominio.com">
-                <label for="password">Senha: </label>
-                <input type="password" id="password" class="input-padrao" required placeholder="suaSenha123#">
-                <input type="submit" value="Entrar" class="enviar">
-            </form>
+            <div class="opcoes_login" id="opcoes">
+                <button class="botao_login" onclick="selecionarFormaLogin('aluno')">Entrar como Aluno</button>
+                <button class="botao_login" onclick="selecionarFormaLogin('orientador')">Entrar como Orientador</button>
+                <button class="botao_login" onclick="selecionarFormaLogin('administrador')">Entrar como Administrador</button>
+            </div>
+
+            <div id="botao_alterar_login">
+
+            </div>
+
+
+            <script src="login.js"></script>
 
         </main>
     </body>

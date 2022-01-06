@@ -59,8 +59,14 @@ h2{
     padding: 10px 0;
 }
 
-.opcoes_orientador{
+
+
+.opcoes_orientador, .opcoes_login{
     margin: 5em 0 0 0;
+}
+
+.opcoes_administrador{
+    margin: 0 2em 0 0;
 }
 
 .botao{
@@ -88,7 +94,7 @@ h2{
     padding: 1em;
 }
 
-.botao_orientacao{
+.botao_orientacao, .botao_login{
     padding: 1em 10px;
     background-color: #294c74;
     border: none;
@@ -103,7 +109,11 @@ h2{
     text-align: center;
 }
 
-.botao_orientacao:hover{
+#botao_gd{
+    font-size: 20px;
+}
+
+.botao_orientacao:hover, .botao_login:hover{
     border: 2px solid black;
     cursor: pointer;
 }
