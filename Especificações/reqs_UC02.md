@@ -16,7 +16,6 @@ Fluxo principal:
 Fluxos alternativos:
 
 Fluxos de exceção:
-- [1a]. Falha no acesso - Sistema exibirá a mensagem que apenas colaboradores podem acessar a área de Organizar Orientação
 - [2a]. Aluno não existente - Sistema exibe mensagem informando que o aluno não está listado dentre os alunos selecionados para tal Orientador.
 - [3a]. Campos vazios - Sistema exibe mensagem informando que pelo menos um dos campos estão vazios.
 
